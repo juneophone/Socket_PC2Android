@@ -7,6 +7,8 @@ Socket TCP/IP for Windows and Android.
 <details>
   <summary>Android</summary>
   
+* Development Environment: Android Studio
+
 * client_android
   
 * server_android
@@ -22,6 +24,8 @@ Socket TCP/IP for Windows and Android.
 <details>
   <summary>Windows C++</summary>
   
+* Development Environment: Visualstudio 2019
+
 * client_c
   
 * server_c
@@ -41,6 +45,8 @@ Socket TCP/IP for Windows and Android.
 
 <details>
   <summary>ADB Forward Method </summary>
+  
+* Development Environment: Eclipse and Android Studio 
   
 * adbClient_java
   
